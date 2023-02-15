@@ -1,8 +1,4 @@
-/**
- * @project Practical
- * @author: Fathullo To'yliyev on 14/02/2023.
- * Company: Technologic ASBT
- */
+
 public class SprialPatternExample3 {
 
     public static void main(String args[]) {

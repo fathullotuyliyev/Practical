@@ -2,11 +2,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * @project Practical
- * @author: Fathullo To'yliyev on 14/02/2023.
- * Company: Technologic ASBT
- */
+
 public class StringToDateExample2 {
 
     public static void main(String[] args) throws ParseException {

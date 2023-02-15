@@ -3,11 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * @project Practical
- * @author: Fathullo To'yliyev on 14/02/2023.
- * Company: Technologic ASBT
- */
+
 //SANANI STRING FORMATGA O'TKAZISH
 public class DateToStringExample1 {
 

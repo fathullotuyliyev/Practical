@@ -1,10 +1,6 @@
 import java.util.Scanner;
 
-/**
- * @project Practical
- * @author: Fathullo To'yliyev on 14/02/2023.
- * Company: Technologic ASBT
- */
+
 public class SpiralPatternExample2 {
 
     //function to print the spiral pattern

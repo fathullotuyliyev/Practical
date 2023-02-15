@@ -1,8 +1,4 @@
-/**
- * @project Practical
- * @author: Fathullo To'yliyev on 13/02/2023.
- * Company: Technologic ASBT
- */
+
 public class PyramidExample {
 
     public static void main(String[] args) {

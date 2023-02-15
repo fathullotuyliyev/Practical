@@ -2,11 +2,7 @@ import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * @project Practical
- * @author: Fathullo To'yliyev on 14/02/2023.
- * Company: Technologic ASBT
- */
+
 //SANANI TIMESTAMPGA O'TKAZISH
 public class DateToTimestampExample1 {
 
