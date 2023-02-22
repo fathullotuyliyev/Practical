@@ -8,6 +8,7 @@ import java.util.Scanner;
  * Company: Technologic ASBT
  */
 public class Menu {
+
     private Scanner input = new Scanner(System.in);
     private TaskList taskList = new TaskList();
 

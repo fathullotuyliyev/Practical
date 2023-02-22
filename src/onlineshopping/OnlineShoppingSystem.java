@@ -33,7 +33,6 @@ class Customer {
         this.email = email;
     }
 
-
     /**
      * Getter - bu xususiy o'zgaruvchining qiymatini qaytaruvchi metod. U o'zgaruvchiga faqat o'qish uchun ruxsat beradi, tashqi kodga uning qiymatini
      * olish imkonini beradi, lekin uni o'zgartirmaydi.
